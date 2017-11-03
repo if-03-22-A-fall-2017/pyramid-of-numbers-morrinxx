@@ -3,7 +3,7 @@
  * ---------------------------------------------------------
  * Exercise Number: 3
  * Title:			Pyramid of Numbers
- * Author:			Felix Bogengruber
+ * Author:		Marcel Pölzl
  * ----------------------------------------------------------
  * Description:
  * Calculates a pyramid of numbers, i.e., it multiplies a big
